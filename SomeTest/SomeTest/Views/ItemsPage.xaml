@@ -24,12 +24,12 @@
                 ItemSelected="OnItemSelected">
             <d:ListView.ItemsSource>
                 <x:Array Type="{x:Type x:String}">
-                    <x:String>First Item</x:String>
-                    <x:String>Second Item</x:String>
-                    <x:String>Third Item</x:String>
-                    <x:String>Fourth Item</x:String>
-                    <x:String>Fifth Item</x:String>
-                    <x:String>Sixth Item</x:String>
+                    <x:String>First</x:String>
+                    <x:String>Second</x:String>
+                    <x:String>Third</x:String>
+                    <x:String>Fourth</x:String>
+                    <x:String>Fifth</x:String>
+                    <x:String>Sixth</x:String>
                 </x:Array>
             </d:ListView.ItemsSource>
             <ListView.ItemTemplate>
