@@ -14,12 +14,12 @@ namespace SomeTest.Services
         {
             items = new List<Item>()
             {
-                new Item { Id = Guid.NewGuid().ToString(), Text = "First", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Second", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Third", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fourth", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth", Description="This is an item description." }
+                new Item { Id = Guid.NewGuid().ToString(), Text = "First", Description="This is a first item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Second", Description="This is a second item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Third", Description="This is a third item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Fourth", Description="This is a fourth item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth", Description="This is a fifth item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth", Description="This is a sixth item description." }
             };
         }
 
